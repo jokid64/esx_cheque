@@ -5,13 +5,13 @@ This script was originally developed by Me - LizzardGuy
 
 ## Download & Installation
 
-### Using Git
+## Using Git
 ```
 cd resources
 git clone https://github.com/jokid64/esx_cheque
 ```
 
-### Manually
+## Manually
 - Download https://github.com/jokid64/esx_cheque/archive/master.zip
 - Put it in the `[esx]` directory
 - Add item you want to pay with in your `items` database
@@ -24,6 +24,10 @@ start esx_cheque
 ```
 
 You NEED to restart the server
+
+## Screenshot
+
+![screencheque.png](https://imgshare.io/images/2020/06/18/screencheque.png)
 
 # Legal
 ### License
