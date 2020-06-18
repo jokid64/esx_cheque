@@ -1,5 +1,5 @@
 # esx_cheque
-This is a script to make cheque to other player. It is giving money to anyone close to you, bank to bank transfer. Made it because I have disable the ability to give money threw inventory and then people have to buy cheques to banker (increase rp scene and banker work)
+This is a script to make cheque to other player. It is giving money to anyone close to you, bank to bank transfer. Made it because I have disable the ability to give money through inventory and then people have to buy cheques to banker (increase rp scene and banker work)
 
 This script was originally developed by Me - LizzardGuy
 
